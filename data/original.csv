@@ -1,0 +1,8 @@
+Punt.asist.,Participacion,Aprovechamiento,Nota
+No asiste,Media,Excelente,Exento
+Asiste,Alta,Bueno,Exento
+No asiste,Media,Bueno,Final
+No asiste,Baja,Bueno,Final
+Asiste,Alta,Regular,Final
+Asiste,Baja,Deficiente,Extraordinario
+No asiste,Media,Regular,Extraordinario
